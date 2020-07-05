@@ -1,0 +1,35 @@
+ls: invalid option -- '
+'
+Try 'ls --help' for more information.
+tail: cannot open 'fajl.txt'$'\n' for reading: No such file or directory
+stat: cannot stat '...'$'\n': No such file or directory
+head: cannot open '1.txt'$'\n' for reading: No such file or directory
+ls: invalid option -- '
+'
+Try 'ls --help' for more information.
+tail: cannot open 'fajl.txt'$'\n' for reading: No such file or directory
+stat: cannot stat '...'$'\n': No such file or directory
+head: cannot open '1.txt'$'\n' for reading: No such file or directory
+ls: invalid option -- '
+'
+Try 'ls --help' for more information.
+tail: cannot open 'fajl.txt'$'\n' for reading: No such file or directory
+stat: cannot stat '...'$'\n': No such file or directory
+head: cannot open '1.txt'$'\n' for reading: No such file or directory
+ls: cannot access ' ': No such file or directory
+tail: cannot open ' ' for reading: No such file or directory
+stat: cannot stat ' ': No such file or directory
+head: cannot open ' ' for reading: No such file or directory
+ls: invalid option -- '
+'
+Try 'ls --help' for more information.
+tail: cannot open 'fajl.txt'$'\n' for reading: No such file or directory
+stat: cannot stat '...'$'\n': No such file or directory
+head: cannot open '1.txt'$'\n' for reading: No such file or directory
+ls: cannot access '': No such file or directory
+tail: cannot open '' for reading: No such file or directory
+stat: cannot stat '': No such file or directory
+head: cannot open '' for reading: No such file or directory
+tail: cannot open 'fajl.txt' for reading: No such file or directory
+stat: cannot stat '...': No such file or directory
+head: cannot open '1.txt' for reading: No such file or directory

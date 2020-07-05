@@ -1,0 +1,1 @@
+Cao ovo je jedan tekstualni fajl koji ce sadrzati tekst za test primer. Potrebno je ispisati pozicije zakljucanih reci u fajlu. I ne samo pozicije potrebno je odrediti i tip katanca. Medjutim, ovo je i dalje lak zadatak. Jos jednom da napisem je i kraj!
