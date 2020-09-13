@@ -1,3 +1,3 @@
 # os
 
-Uradjeni rokovi sa ispita za kurs Operativni sistemi na Matematickom fakultetu.
+Urađeni rokovi za kurs Operativni sistemi na Matematičkom fakultetu.
